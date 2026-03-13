@@ -110,7 +110,7 @@ Financial institutions should consider advanced fraud detection systems such as 
 
 The full SQL queries used in this analysis can be found here:
 
-`sql/paysim_analysis.sql`
+[view SQL Analysis](paysim_analysis.sql)
 
 These queries cover:
 
