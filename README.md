@@ -74,7 +74,7 @@ Fraud rates:
 
 Below is a preview of the fraud analysis results from the SQL queries.
 
-![Fraud Analysis Results](fraud_analysis_results.PNG)
+![fraud analysis results](fraud_analysis_results.PNG)
 
 Total financial loss due to fraud:
 
