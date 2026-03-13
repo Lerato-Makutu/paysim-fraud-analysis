@@ -70,6 +70,12 @@ Fraud rates:
 - Transfer: 0.43%
 - Cash Out: 0.11%
 
+## Example Analysis Output
+
+Below is a preview of the fraud analysis results from the SQL queries.
+
+![Fraud Analysis Results](fraud_analysis_results.png)
+
 Total financial loss due to fraud:
 
 R93,476,299.99
