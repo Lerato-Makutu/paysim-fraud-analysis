@@ -126,6 +126,20 @@ These queries cover:
 - Fraud risk analysis
 - User activity analysis
 
+## Fraud Analysis Dashboard
+
+After performing the SQL queries to analyze PaySim transactions and identify fraudulent behavior, I created an interactive Tableau dashboard to visualize key insights:
+
+- Total transactions by type  
+- Fraudulent vs non-fraudulent transactions  
+- Fraud rate and top fraud cases  
+
+## PaySim Fraud Analysis Dashboard
+
+![PaySim Dashboard](sql/Dashboard_screenshot.png)
+
+Explore the interactive dashboard here: [View on Tableau Public](https://public.tableau.com/views/FintechFraudDetectionDashboardSQLTableauProject/Dashboard1)
+
 ## Conclusion
 
 While fraudulent transactions represent a small percentage of total activity, they result in significant financial losses. Fraud is concentrated in transfer and cash-out transactions, indicating the need for stronger monitoring of these transaction types.
