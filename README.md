@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes mobile money transactions to understand transaction behavior, identify fraud patterns, and provide recommendations for improving fraud detection systems.
 
-The analysis was conducted using SQL on the PaySim financial transaction dataset.
+The analysis was conducted using SQL for data exploration and fraud detection, and Tableau to visualize transaction behavior and highlight key insights through an interactive dashboard.
 
 ## Objectives
 The goal of this analysis was to:
@@ -38,6 +38,7 @@ Key fields include:
 
 - SQL
 - MySQL
+- Tableau
 - GitHub
 
 ## Key Insights
