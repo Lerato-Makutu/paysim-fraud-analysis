@@ -74,7 +74,7 @@ Fraud rates:
 
 Below is a preview of the fraud analysis results from the SQL queries.
 
-![fraud analysis results](sql/fraud_analysis_results.png)
+![fraud analysis results](images/fraud_analysis_results.png)
 
 Total financial loss due to fraud:
 
@@ -136,7 +136,7 @@ After performing the SQL queries to analyze PaySim transactions and identify fra
 
 ## PaySim Fraud Analysis Dashboard
 
-![PaySim Dashboard](Dashboard_screenshot.png)
+![PaySim Dashboard](images/dashboard_screenshot.png)
 
 Explore the interactive dashboard here: [View on Tableau Public](https://public.tableau.com/views/FintechFraudDetectionDashboardSQLTableauProject/Dashboard1)
 
