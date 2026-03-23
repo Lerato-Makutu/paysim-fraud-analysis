@@ -139,7 +139,7 @@ After performing the SQL queries to analyze PaySim transactions and identify fra
 
 ![PaySim Dashboard](images/dashboard_screenshot.png)
 
-Explore the interactive dashboard here: [View on Tableau Public](https://public.tableau.com/views/FintechFraudDetectionDashboardSQLTableauProject/Dashboard1)
+Explore the interactive dashboard here: [View on Tableau Public](https://public.tableau.com/views/CustomerChurnAnalysisDashboard_17742782641550/Dashboard1)
 
 ## Conclusion
 
